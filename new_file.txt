@@ -1,1 +1,3 @@
-This is the first file I'm starting to learn git with.
+This is the first file I'm starting to learn git with. 
+
+Changing this line to test editor.
