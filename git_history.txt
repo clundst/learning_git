@@ -1,0 +1,40 @@
+ 1281  git checkout
+ 1282  ls
+ 1283  git status
+ 1284  git checkout 
+ 1285  git checkout --all
+ 1286  git checkout
+ 1287  git checkout -- 
+ 1288  git checkout -- *
+ 1289  ls
+ 1290  git status
+ 1291  ls
+ 1292  cat new_file.txt 
+ 1293  ls
+ 1294  man git
+ 1295  man git-commit
+ 1296  ls
+ 1297  git status
+ 1298  git pull
+ 1299  ls
+ 1300  cat README.md 
+ 1301  ls 
+ 1302  rm *
+ 1303  git pull
+ 1304  ls
+ 1305  git checkout master
+ 1306  git checkout -- *
+ 1307  ls
+ 1308  ls -l
+ 1309  cat README.md 
+ 1310  ls
+ 1311  vi even_more_files.txt
+ 1312  git status
+ 1313  git add even_more_files.txt 
+ 1314  git status
+ 1315  git push
+ 1316  git status
+ 1317  git commit even_more_files.txt 
+ 1318  git push
+ 1319  ls
+ 1320  history | tail -40 > git_history.txt
